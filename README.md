@@ -15,7 +15,7 @@
 - <b> Searching algorithms and performance comparison</b>
   - (https://github.com/Olade124/Searching-algorithms-and-performance-comparison)
 - <b> 3-Bit Password Checker</b>
-  -
+  - (https://github.com/Olade124/3-Bit-Password-Checker)
 
 <h2> Certifications <h2> 
 Deans List from Spring 2024 - Spring 2025
