@@ -7,7 +7,7 @@
 - <b>Sequential logic circuit</b>
   - [Image Analysis Middleware]https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage
 - <b>📘 Java OOP Fundamentals Project</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [[Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]](https://github.com/Olade124/Java-OOP-Fundamentals-Project)
 - <b>🔣 Boolean Algebra & Logic Circuit Design</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)A
 - <b>Advanced sort algorithm implementation</b>
