@@ -5,7 +5,7 @@
 - <b>Observer Design Pattern </b>
   - [Praciting DS & Algos in Python]https://github.com/Olade124/Observer-Design-Pattern
 - <b>Sequential logic circuit</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware]https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage
 - <b>📘 Java OOP Fundamentals Project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>🔣 Boolean Algebra & Logic Circuit Design</b>
