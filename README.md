@@ -12,6 +12,8 @@
   - (https://github.com/Olade124/Boolean-Algebra-Logic-Circuit-Design)
 - <b>Advanced sort algorithm implementation</b>
   - https://github.com/Olade124/Sorting-Algorithms-Implementation-and-Performance-Testing
+- <b> Searching algorithms and performance comparison</b>
+  - 
 
 <h2> Certifications <h2> 
 Deans List from Spring 2024 - Spring 2025
