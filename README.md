@@ -9,9 +9,9 @@
 - <b>📘 Java OOP Fundamentals Project</b>
   - A Full Java Code (https://github.com/Olade124/Java-OOP-Fundamentals-Project)
 - <b>🔣 Boolean Algebra & Logic Circuit Design</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)A
+  - (https://github.com/Olade124/Boolean-Algebra-Logic-Circuit-Design)
 - <b>Advanced sort algorithm implementation</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 <h2> Certifications <h2> 
 
