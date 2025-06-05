@@ -1,4 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Oluwapeumi Adewuyi! 
+
+<h2>👨‍💻 Computer Science Projects:</h2>
+
+- <b>Observer Design Pattern </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Sequential logic circuit</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>📘 Java OOP Fundamentals Project</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>🔣 Boolean Algebra & Logic Circuit Design</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)A
+- <b>Advanced sort algorithm implementation</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> Certifications <h2> 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[instagram]: https://www.instagram.com/ad3wuy1_/
+[linkedin]: https://www.linkedin.com/in/oluwapelumi-adewuyi-932a13315/
+
+
 
 <!--
 **Olade124/olade124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
