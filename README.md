@@ -5,15 +5,17 @@
 - <b>Observer Design Pattern </b>
   - Powerpoint and coding (https://github.com/Olade124/Observer-Design-Pattern)
 - <b>Sequential logic circuit</b>
-  - https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage
+  - (https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage)
 - <b>📘 Java OOP Fundamentals Project</b>
   - A Full Java Code (https://github.com/Olade124/Java-OOP-Fundamentals-Project)
 - <b>🔣 Boolean Algebra & Logic Circuit Design</b>
   - (https://github.com/Olade124/Boolean-Algebra-Logic-Circuit-Design)
 - <b>Advanced sort algorithm implementation</b>
-  - https://github.com/Olade124/Sorting-Algorithms-Implementation-and-Performance-Testing
+  - (https://github.com/Olade124/Sorting-Algorithms-Implementation-and-Performance-Testing)
 - <b> Searching algorithms and performance comparison</b>
-  - 
+  - (https://github.com/Olade124/Searching-algorithms-and-performance-comparison)
+- <b> 3-Bit Password Checker</b>
+  -
 
 <h2> Certifications <h2> 
 Deans List from Spring 2024 - Spring 2025
