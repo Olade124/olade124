@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Observer Design Pattern </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]https://github.com/Olade124/Observer-Design-Pattern
 - <b>Sequential logic circuit</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>📘 Java OOP Fundamentals Project</b>
