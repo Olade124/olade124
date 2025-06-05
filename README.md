@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oluwapeumi Adewuyi! 
+<h1>Hi, I'm Oluwapelumi Adewuyi! 
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
