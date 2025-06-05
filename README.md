@@ -3,11 +3,11 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Observer Design Pattern </b>
-  - [Praciting DS & Algos in Python]https://github.com/Olade124/Observer-Design-Pattern
+  - Powerpoint and coding (https://github.com/Olade124/Observer-Design-Pattern)
 - <b>Sequential logic circuit</b>
-  - [Image Analysis Middleware]https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage
+  - https://github.com/Olade124/Sequential-Comparator-Circuit-with-Register-Storage
 - <b>📘 Java OOP Fundamentals Project</b>
-  - [[Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]](https://github.com/Olade124/Java-OOP-Fundamentals-Project)
+  - A Full Java Code (https://github.com/Olade124/Java-OOP-Fundamentals-Project)
 - <b>🔣 Boolean Algebra & Logic Circuit Design</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)A
 - <b>Advanced sort algorithm implementation</b>
